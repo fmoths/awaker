@@ -1,4 +1,4 @@
-package im.fmoths.awaker.controller
+package im.fmoths.awaker.controller.batch
 
 import org.springframework.web.bind.annotation.PostMapping
 import org.springframework.web.bind.annotation.RequestMapping
